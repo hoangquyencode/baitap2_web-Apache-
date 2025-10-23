@@ -175,6 +175,19 @@ Tại C:\Windows\System32\drivers\etc\ host
 
 
 
+KQ: tại Web_ http://hoangthiquyen.com/
+
+
+
+
+
+<img width="810" height="364" alt="image" src="https://github.com/user-attachments/assets/8f870d04-6be1-439d-b150-a35721ec27e7" />
+
+
+
+
+
+
 
 
 
