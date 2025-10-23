@@ -99,6 +99,7 @@ DEADLINE: 26/10/2025
 ./.
 
 BL: 
+2.1. Cài đặt Apache web server:
 
 Dừng IIS
 
@@ -183,6 +184,28 @@ KQ: tại Web_ http://hoangthiquyen.com/
 
 <img width="810" height="364" alt="image" src="https://github.com/user-attachments/assets/8f870d04-6be1-439d-b150-a35721ec27e7" />
 
+
+
+
+2.2. Cài đặt nodejs và nodered => Dùng làm backend:
+
+Download cài đặt nodejs 
+
+
+<img width="927" height="600" alt="image" src="https://github.com/user-attachments/assets/2fe43240-8801-4537-8ae1-4c7cc636de80" />
+
+
+
+
+<img width="626" height="745" alt="image" src="https://github.com/user-attachments/assets/4412c366-a08d-43c3-958f-55ec0c1d22df" />
+
+
+
+
+
+
+
+<img width="1469" height="973" alt="image" src="https://github.com/user-attachments/assets/26a08774-ee1e-41ca-89c9-9072e82b39c7" />
 
 
 
