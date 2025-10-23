@@ -132,6 +132,62 @@ Vào F:Apache\Apache24\conf\httpd.conf mở bằng notepad để sửa
   <img width="1091" height="574" alt="image" src="https://github.com/user-attachments/assets/08c17d48-252b-44bc-8dd8-e2993ce73981" />
 
 
+  Tạo file html 
+
+
+
+  <img width="1049" height="619" alt="image" src="https://github.com/user-attachments/assets/1986febd-f1c2-4146-8830-c8f00b6d1834" />
+
+
+
+Tại httpd.conf
+
+
+<img width="702" height="277" alt="image" src="https://github.com/user-attachments/assets/5548b904-8418-4b04-a255-393f37ac761e" />
+
+
+  
+<img width="801" height="283" alt="image" src="https://github.com/user-attachments/assets/43cda1ce-540d-443f-84ea-fe71f464559d" />
+
+
+
+<img width="822" height="371" alt="image" src="https://github.com/user-attachments/assets/4b9352fd-661b-4ec2-b0ca-73b73fd9b41b" />
+
+
+
+Tại httpd-vhosts.conf
+
+
+
+<img width="795" height="755" alt="image" src="https://github.com/user-attachments/assets/bfc7697e-328d-4b17-bc82-589e017a02ee" />
+
+
+
+
+
+Tại C:\Windows\System32\drivers\etc\ host
+
+
+
+
+<img width="726" height="667" alt="image" src="https://github.com/user-attachments/assets/546eebbc-b785-47fb-ba0b-3996ca2a2f64" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
