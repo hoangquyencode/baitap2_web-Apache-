@@ -271,15 +271,26 @@ Vào http://localhost:1880/timkiem?q=th%E1%BB%8B để truy vấn dl:
 
 
 Tạo giao diện front-end: 
-truy caapj trang http://localhost/hoangthiquyen/
-
-
-<img width="1288" height="414" alt="image" src="https://github.com/user-attachments/assets/30611095-e611-454c-a3a8-24df2259dc64" />
+truy cập trang http://localhost/hoangthiquyen/
 
 
 
+![Uploading image.png…]()
 
 
+
+
+
+Nhận xét bài làm:
+
+Hiểu quá trình cài đặt phần mềm và thư viện:
+Đã nắm rõ quy trình cài đặt Node.js, Node-RED, Apache và các thư viện mở rộng như node-red-node-mssql. Biết cách cấu hình thư mục web trong Apache và kích hoạt server để chạy các file front-end.
+
+Hiểu cách sử dụng Node-RED để tạo API back-end:
+Đã hiểu rõ vai trò của các node trong flow (HTTP In, Function, MSSQL, HTTP Response) và biết cách truyền dữ liệu qua từng node. Có khả năng viết truy vấn SQL, xử lý tham số đầu vào và trả dữ liệu dạng JSON về client.
+
+Hiểu cách front-end tương tác với back-end:
+Biết cách sử dụng JavaScript (fetch API) để gửi yêu cầu đến API Node-RED, nhận dữ liệu JSON trả về và hiển thị kết quả ra giao diện. Giao diện HTML hoạt động tốt, có form nhập, nút tìm kiếm, và hiển thị bảng kết quả động.
 
 
 
