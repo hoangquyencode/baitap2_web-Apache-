@@ -209,6 +209,44 @@ Download cài đặt nodejs
 
 
 
+2.3. Tạo csdl tuỳ ý trên mssql (sql server 2022)
+
+
+
+
+
+<img width="1238" height="853" alt="image" src="https://github.com/user-attachments/assets/f9d491a9-01b5-461e-8706-bdc10005380b" />
+
+
+
+2.4. Cài đặt thư viện trên nodered:
+   Truy cập giao diện nodered bằng url: http://localhost:1880
+   Bấm Menu ≡ → Manage palette → Install
+   Lần lượt tìm và Install các gói sau:
+         node-red-contrib-mssql-plus
+         node-red-node-mysql
+         node-red-contrib-telegrambot
+         node-red-contrib-moment
+         node-red-contrib-influxdb
+         node-red-contrib-duckdns
+         node-red-contrib-cron-plus
+
+
+
+   <img width="1337" height="944" alt="image" src="https://github.com/user-attachments/assets/050069e7-bd99-480a-834f-d0a50b9f0d86" />
+
+
+
+
+Đăng nhập bằng mật khẩu:
+User: admin
+passwork:HQ123
+
+
+
+
+<img width="1798" height="853" alt="image" src="https://github.com/user-attachments/assets/ffb1a409-fe33-45b4-9240-6db03573b514" />
+
 
 
 
