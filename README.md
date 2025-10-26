@@ -238,7 +238,7 @@ Download cài đặt nodejs
 
 
 
-Đăng nhập bằng mật khẩu:
+Đăng nhập bằng Login:
 User: admin
 passwork:HQ123
 
@@ -246,6 +246,38 @@ passwork:HQ123
 
 
 <img width="1798" height="853" alt="image" src="https://github.com/user-attachments/assets/ffb1a409-fe33-45b4-9240-6db03573b514" />
+
+
+
+
+Tạo API
+
+
+
+<img width="1843" height="994" alt="image" src="https://github.com/user-attachments/assets/dcc484bc-73dd-48a5-8435-f0fe5f8ac217" />
+
+
+
+
+Vào http://localhost:1880/timkiem?q=th%E1%BB%8B để truy vấn dl:
+
+
+
+
+
+<img width="1006" height="321" alt="image" src="https://github.com/user-attachments/assets/e7f52d37-677b-4b09-8576-1cfc92e23b9e" />
+
+
+
+
+Tạo giao diện front-end: 
+truy caapj trang http://localhost/hoangthiquyen/
+
+
+<img width="1288" height="414" alt="image" src="https://github.com/user-attachments/assets/30611095-e611-454c-a3a8-24df2259dc64" />
+
+
+
 
 
 
