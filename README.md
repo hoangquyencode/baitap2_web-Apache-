@@ -275,7 +275,7 @@ truy cập trang http://localhost/hoangthiquyen/
 
 
 
-![Uploading image.png…]()
+<img width="1641" height="826" alt="image" src="https://github.com/user-attachments/assets/a3339304-a841-4bbb-8f3e-1aaae14e403c" />
 
 
 
