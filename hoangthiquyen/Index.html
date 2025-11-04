@@ -1,0 +1,83 @@
+<<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <title>Tìm kiếm sinh viên - Hoàng Thị Quyên</title>
+  <link rel="stylesheet" href="hoangthiquyen.css">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+      background: #f2f6ff;
+      text-align: center;
+    }
+
+    h1 {
+      color: #1a73e8;
+    }
+
+    form {
+      margin-bottom: 20px;
+    }
+
+    input[type="text"] {
+      padding: 10px;
+      width: 250px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+
+    button {
+      padding: 10px 15px;
+      border: none;
+      background-color: #1a73e8;
+      color: white;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background-color: #0f5bd4;
+    }
+
+    table {
+      margin: 20px auto;
+      border-collapse: collapse;
+      width: 60%;
+      background-color: white;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+
+    th, td {
+      border: 1px solid #ccc;
+      padding: 10px;
+      text-align: center;
+    }
+
+    th {
+      background-color: #e3f2fd;
+      color: #0f5bd4;
+    }
+
+    tr:hover {
+      background-color: #f1f9ff;
+    }
+
+    #result {
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>🔍 TÌM KIẾM SINH VIÊN</h1>
+
+  <form id="searchForm">
+    <input type="text" id="keyword" placeholder="Nhập tên hoặc mã sinh viên...">
+    <button type="submit">Tìm kiếm</button>
+  </form>
+
+  <div id="result"></div>
+
+  <script src="hoangthiquyen.js"></script>
+</body>
+</html>
